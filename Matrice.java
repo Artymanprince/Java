@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Matrice {
 	public static void main(String args[]){
  Scanner matrice = new Scanner(System.in);
- /*matrice is the scanner object that we want to store our data input*/
+ /*matrice is the scanner object that we want to store our data input from user*/
 	System.out.println("Input number of rows:  ");
 	int row = matrice.nextInt();
 	System.out.println("Input number of columns: ");
